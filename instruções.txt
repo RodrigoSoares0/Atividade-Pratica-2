@@ -1,0 +1,1 @@
+substituir o arquivo.txt pelo arquivo que for testar, mas mantendo o nome "arquivo.txt"
