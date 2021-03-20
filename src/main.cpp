@@ -4,6 +4,10 @@
 #include <string.h>
 #include <cstring>
 
+/*
+Rodrigo da Silva Soares 201765218AB
+*/
+
 using namespace std;
 int main()
 {
@@ -24,8 +28,5 @@ int main()
     for (int i = 0; i < temp.size(); i++) //imprime na tela
         cout << "Saida codificada:\n " << temp[i] << endl;
 
-    //int n = mensagem.length(); //n recebe o tamanho da string
-    //char mensagemArray[n];     //vetor de char que armazena n caracteres
-
-    //strcpy(mensagemArray, mensagem.c_str()); //"transforma" a string em um array de char
+    
 }

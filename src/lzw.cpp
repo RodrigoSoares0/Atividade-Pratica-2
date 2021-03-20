@@ -6,6 +6,10 @@
 #include <cstring>
 #include <bits/stdc++.h>
 
+/*
+Rodrigo da Silva Soares 201765218AB
+*/
+
 int lzw::codificar(string mensagem)
 {
     unordered_map<string, int> table; //table se refere ao dicionario, no caso

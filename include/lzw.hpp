@@ -1,5 +1,8 @@
 #include <iostream>
 
+/*
+Rodrigo da Silva Soares 201765218AB
+*/
 using namespace std;
 
 class lzw
